@@ -1,0 +1,43 @@
+[
+  {
+    "name":"HONDA",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/0d4/2f7/07a3d35.jpg",
+  "location":"Muscatine, IA"
+  },
+  {
+    "name":"Royal Enfield Yamaha",
+    "image": "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAIMAAAAJGExNTE4OWY4LWU4ODMtNDA2ZS1iNWI1LWNkYmIyOWMyMGQ5Zg.jpg",
+    "location":"Muscatine, IA"
+  },
+  
+  {
+    "name":"VESPA kawasaki",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAATUAAAAJDJkY2Q1Mzk0LTI1YzItNDFhNy04ZmQ0LWY3NzZlZTZlNGVmYw.jpg",
+    "location":"Zanesville, OH"
+  },
+  {
+    "name":"BMW",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/01c/0d4/2b69e7c.jpg",
+    "location":"Garner, NC"
+  },
+  {
+    "name":"Moto Guzzi",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/000/1f6/019/29cd853.jpg",
+    "location":"Cabin John, MD"
+  },
+  {
+    "name":"KTM",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/000/0bf/335/05a57f6.jpg",
+    "location":"Los Angeles, CA"
+  },
+  {
+    "name":"BAJAJ",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/29b/028/2426536.jpg",
+    "location":"San Jose, CA"
+  },
+  {
+    "name":"Revolt motors",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/000/1bc/12e/1423106.jpg",
+    "location":"Bakersfield, CA"
+  }
+]
